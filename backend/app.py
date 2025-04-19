@@ -1,8 +1,11 @@
 from flask import Flask
-from routes.forecast_routes import forecast_bp
+from routes.forecast_routes import forecast_blueprint
 
 app = Flask(__name__)
-app.register_blueprint(forecast_bp)
+
+# Register blueprints or routes
+app.register_blueprint(forecast_blueprint, url_prefix='/forecast')
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0')
+    app.run(debug=True)
+
