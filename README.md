@@ -18,7 +18,7 @@ Sketch out core modules: Forecasting, Optimization, Supplier Recommender.
 
 2. Use Case 2: Zepto Hyperlocal Grocery [ಹೈಪರ್ಲೋಕಲ್ ದಿನಸಿ] Restocking and Supplier Optimization
 
-3. Use Case 3: Swiggy/Zomato Cloud Kitchen Ingredient Forecasting
+3. Use Case 3: Swiggy/Zomato Cloud Kitchen Ingredient Forecasting[ಪದಾರ್ಥಗಳ ಮುನ್ಸೂಚನೆ]
 
 
 1. Goal: Predict item-level demand per warehouse per week.
