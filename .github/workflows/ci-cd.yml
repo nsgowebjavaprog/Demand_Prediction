@@ -1,26 +1,27 @@
-name: IntelliSupply CI/CD
+name: CI
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  build-test:
-    runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest # Ensure you're using a non-Windows runner
+
     steps:
-      - uses: actions/checkout@v3
-
+      - uses: actions/checkout@v2
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v2
         with:
-          python-version: "3.12"
-
+          python-version: "3.9"
       - name: Install dependencies
         run: |
-          cd backend
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
-
       - name: Run tests
         run: |
-          cd backend
           pytest
