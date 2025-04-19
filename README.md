@@ -1,7 +1,7 @@
 # IntelliSupply
 AI-Powered Demand Forecasting &amp; Autonomous Supply Chain Optimization
 
-## ------------------------------------------------------- 1-6 Day's --------------------------------------------------------------
+## --------------------------------- 1-6 Day's ------------------------------------
 
 🔵 Phase 1: Ideation, Research & Setup (Day 1–6)
 ## 📅 Day 1: Ideation + Use Case Finalization
