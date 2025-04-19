@@ -13,6 +13,14 @@ Choose 2–3 real-life use cases: e.g., Flipkart warehouse, Zepto restocking.
 Sketch out core modules: Forecasting, Optimization, Supplier Recommender.
 '''
 # Use-case:
+
+1. Use Case 1: Flipkart Warehouse Demand Forecasting and Inventory Balancing
+
+2. Use Case 2: Zepto Hyperlocal Grocery Restocking and Supplier Optimization
+
+3. Use Case 3: Swiggy/Zomato Cloud Kitchen Ingredient Forecasting
+
+
 1. Goal: Predict item-level demand per warehouse per week.
 
 1. Impact: Reduces transfer costs, improves delivery speed, lowers inventory holding costs.
