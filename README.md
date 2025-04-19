@@ -16,7 +16,7 @@ Sketch out core modules: Forecasting, Optimization, Supplier Recommender.
 
 1. Use Case 1: Flipkart Warehouse Demand Forecasting and Inventory Balancing
 
-2. Use Case 2: Zepto Hyperlocal Grocery Restocking and Supplier Optimization
+2. Use Case 2: Zepto Hyperlocal Grocery [ಹೈಪರ್ಲೋಕಲ್ ದಿನಸಿ] Restocking and Supplier Optimization
 
 3. Use Case 3: Swiggy/Zomato Cloud Kitchen Ingredient Forecasting
 
