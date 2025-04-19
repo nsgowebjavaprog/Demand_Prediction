@@ -44,6 +44,21 @@ MLOps: MLflow, Docker, GitHub Actions, CI/CD.
 
 UI/UX trends for supply dashboards.
 
+# Use-Cases:
+Task Category	Subtask
+
+1. Forecasting  ---->	Implement ARIMA, Prophet, XGBoost, and LSTM baseline models
+
+2. Optimization	----> Solve at least one LP-based inventory problem
+
+3. MLOps ----->	Run MLflow locally, log a dummy model
+
+4. Docker ---->	Containerize forecasting model service
+
+5. GitHub ----> Actions	Add workflow to build/test model or API
+
+6. UI/UX	----> Research 3 dashboards from Behance/Dribbble + sketch layout
+
 ## 📅 Day 3: Tech Setup
 
 GitHub repo + folder structure.
