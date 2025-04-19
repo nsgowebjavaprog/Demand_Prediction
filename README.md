@@ -11,6 +11,20 @@ Define problems for e-commerce, grocery, restaurant supply chains.
 Choose 2–3 real-life use cases: e.g., Flipkart warehouse, Zepto restocking.
 
 Sketch out core modules: Forecasting, Optimization, Supplier Recommender.
+'''
+# Use-case:
+1. Goal: Predict item-level demand per warehouse per week.
+
+1. Impact: Reduces transfer costs, improves delivery speed, lowers inventory holding costs.
+
+2. Goal: Forecast local demand, automate restocking quantities, and recommend suppliers.
+
+2. Impact: Cuts customer churn, improves SLA adherence, and reduces wastage.
+
+3. Goal: Predict demand for ingredients based on menu and time, and trigger restocking.
+
+3. Impact: Increases kitchen uptime and reduces food prep delays.
+'''
 
 ## 📅 Day 2: Research
 
